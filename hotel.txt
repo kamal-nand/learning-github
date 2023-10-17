@@ -1,1 +1,2 @@
 Planning to build a website for the hotel management
+Here, we are learning the gitbash to use the github
